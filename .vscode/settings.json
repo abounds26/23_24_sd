@@ -1,0 +1,7 @@
+{
+    "githubPullRequests.createOnPublishBranch": "never",
+    "githubPullRequests.notifications": "pullRequests",
+    "githubPullRequests.pullBranch": "always",
+    "git.allowForcePush": true,
+    "git.autofetch": true
+}
